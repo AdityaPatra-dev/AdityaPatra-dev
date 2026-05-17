@@ -1,16 +1,23 @@
-## Hi there 👋
+--># 👋 Hey, I'm **Aditya Patra**
 
-<!--
-**AdityaPatra-dev/AdityaPatra-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Curious learner | Tech explorer | Developer at heart**  
+I love exploring different computer technologies and building innovative projects while constantly improving my skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- ✨ **Languages:** Python · C · C++ · SQL 🗄️ · Dart
+- 🎯 **Focus Areas:** Competitive Programming · Problem Solving· Software Development
+
+---
+
+## 🚀 What I'm Currently Working On
+- Leveling up in **competitive programming**
+- Creating **innovative and useful projects**
+- Learning new tools, frameworks & technologies
+
+---
+
+## 🌐 Connect With Me
+Thanks for visiting my profile! 🚀  
+More projects coming soon 😊
