@@ -9,6 +9,8 @@
 <br/>
 
 <a href="https://adityapatradev.web.app/" target="_blank"><img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-adityapatradev.web.app-22D3EE?style=for-the-badge&logo=google-cloud&logoColor=black" alt="Live Portfolio"/></a>
+<a href="https://hub.docker.com/u/adityapatra" target="_blank"><img src="https://img.shields.io/badge/DOCKER%20HUB-adityapatra-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub"/></a>
+<a href="https://huggingface.co/Aditya9438" target="_blank"><img src="https://img.shields.io/badge/HUGGING%20FACE-Aditya9438-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
 <a href="https://github.com/AdityaPatra-dev"><img src="https://komarev.com/ghpvc/?username=AdityaPatra-dev&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS" alt="Profile views"/></a>
 <a href="https://github.com/AdityaPatra-dev?tab=followers"><img src="https://img.shields.io/github/followers/AdityaPatra-dev?style=for-the-badge&logo=github&label=FOLLOWERS&color=7C3AED" alt="Followers"/></a>
 <a href="https://github.com/AdityaPatra-dev/AdityaPatra-dev/issues/new?template=guestbook.md&title=%F0%9F%91%8B+%5BGuestbook%5D+Note+from+%40"><img src="https://img.shields.io/badge/%E2%9C%8D%EF%B8%8F%20SIGN%20MY-GUESTBOOK-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Sign Guestbook"/></a>
@@ -23,7 +25,7 @@
       <a href="#-interactive-terminal-cli"><b>💻 Terminal CLI</b></a> &nbsp;•&nbsp;
       <a href="#-featured-projects"><b>🚀 Projects</b></a> &nbsp;•&nbsp;
       <a href="#-engineering-stack"><b>🧰 Tech Stack</b></a> &nbsp;•&nbsp;
-      <a href="#-live-profile-telemetry"><b>📡 Telemetry</b></a> &nbsp;•&nbsp;
+      <a href="#-live-multi-cloud-telemetry"><b>📡 Telemetry</b></a> &nbsp;•&nbsp;
       <a href="#-github-analytics"><b>📊 Analytics</b></a> &nbsp;•&nbsp;
       <a href="#-visitor-guestbook"><b>✍️ Guestbook</b></a> &nbsp;•&nbsp;
       <a href="#-connect"><b>🌐 Connect</b></a>
@@ -62,7 +64,7 @@ code → containers → infrastructure → deployment → observability → ML s
 └────────────────────────────────────────────────────────┘
 ```
 
-🌐 **Check out my live portfolio:** [adityapatradev.web.app](https://adityapatradev.web.app/)
+🌐 **Live Deployments:** [Portfolio](https://adityapatradev.web.app/) &nbsp;|&nbsp; [CloudArena](https://gdg-cloudarena.web.app/) &nbsp;|&nbsp; [Taarak](https://taakrak-d9ed0.web.app/)
 
 </td><td width="42%" valign="top"><img src="./assets/terminal.svg" width="100%" alt="Animated terminal"/></td></tr></table>
 
@@ -81,13 +83,15 @@ code → containers → infrastructure → deployment → observability → ML s
 $ aditya --profile
 
 [USER PROFILE]
-Name        : Aditya Patra
-Role        : Cloud, DevOps & ML/MLOps Engineer
-University  : KIIT (Kalinga Institute of Industrial Technology), Bhubaneswar, India
-Degree      : B.Tech Computer Science & Engineering (2nd Year)
-Status      : Active Student & Systems Builder
-Core Mantra : "Build → Break → Learn → Automate → Ship → Repeat"
-Website     : https://adityapatradev.web.app/
+Name             : Aditya Patra
+Role             : Cloud, DevOps & ML/MLOps Engineer
+University       : KIIT (Kalinga Institute of Industrial Technology), Bhubaneswar, India
+Degree           : B.Tech Computer Science & Engineering (2nd Year)
+Status           : Active Student & Systems Builder
+Core Mantra      : "Build → Break → Learn → Automate → Ship → Repeat"
+Live Portfolio   : https://adityapatradev.web.app/
+Live CloudArena  : https://gdg-cloudarena.web.app/
+Live Taarak App  : https://taakrak-d9ed0.web.app/
 ```
 
 </details>
@@ -101,12 +105,14 @@ Website     : https://adityapatradev.web.app/
 $ aditya --cloud-devops
 
 [INFRASTRUCTURE & AUTOMATION MATRIX]
+• Container Registry          : Docker Hub (hub.docker.com/u/adityapatra)
 • Virtualization & Containers : Docker, Containerd, Multi-stage builds, Distroless images
 • Orchestration               : Kubernetes (Pod scheduling, Services, Ingress, Deployments)
 • CI/CD Automation           : GitHub Actions, Jenkins, automated testing & linting pipelines
-• Cloud Platforms             : AWS, Google Cloud Platform (GCP), Firebase
+• Cloud Platforms             : Google Cloud Platform (GCP), AWS, Firebase Hosting
 • Reverse Proxies & Network   : Nginx, Cloudflare DNS & SSL/TLS termination, Linux iptables
 • Observability               : Prometheus, Grafana, Systemd service monitoring, Structured logs
+• Flagship Deployment         : gdg-cloudarena.web.app
 ```
 
 </details>
@@ -120,11 +126,13 @@ $ aditya --cloud-devops
 $ aditya --mlops
 
 [MACHINE LEARNING & PRODUCTION PIPELINES]
-• Frameworks          : PyTorch, TensorFlow, Scikit-learn
-• LLMs & Generative AI: Transformer architectures, Fine-tuning, Tokenization, Prompt engineering
-• RAG Systems         : Vector databases, Context retrieval, Chunking strategies, Semantic search
-• Model Serving       : FastAPI microservices, REST endpoints, Dockerized model packaging
-• Repository Highlight: github.com/AdityaPatra-dev/mastering-llms
+• Model Hub & Datasets        : Hugging Face (huggingface.co/Aditya9438)
+• Frameworks                  : PyTorch, TensorFlow, Scikit-learn
+• LLMs & Generative AI        : Transformer architectures, Fine-tuning, Tokenization, Prompt engineering
+• RAG Systems                 : Vector databases, Context retrieval, Chunking strategies, Semantic search
+• Model Serving               : FastAPI microservices, REST endpoints, Dockerized model packaging
+• Flagship: mastering-llms    : github.com/AdityaPatra-dev/mastering-llms [Complete ✅]
+• Flagship: Text-To-Video     : github.com/AdityaPatra-dev/Text-To-Video-Generator [Complete ✅]
 ```
 
 </details>
@@ -150,10 +158,12 @@ $ aditya --mlops
 ```text
 Interested in collaborating on Cloud/DevOps infrastructure, full-stack builds, or ML systems?
 
-📧 Email    : adityapatraraj@gmail.com
-💼 LinkedIn : https://linkedin.com/in/aditya-patra-0a6530289
-🌐 Website  : https://adityapatradev.web.app/
-🐦 X        : https://x.com/Aditya_patra943
+📧 Email        : adityapatraraj@gmail.com
+💼 LinkedIn     : https://linkedin.com/in/aditya-patra-0a6530289
+🌐 Website      : https://adityapatradev.web.app/
+🐳 Docker Hub   : https://hub.docker.com/u/adityapatra
+🤗 Hugging Face : https://huggingface.co/Aditya9438
+🐦 X            : https://x.com/Aditya_patra943
 ```
 
 </details>
@@ -183,14 +193,14 @@ Interested in collaborating on Cloud/DevOps infrastructure, full-stack builds, o
 
 <br/>
 
-| Project | Highlights | Tech Stack | Status |
+| Project | Highlights | Tech Stack | Status / Demo |
 | :--- | :--- | :--- | :---: |
-| 🌐 **[Aditya Patra Portfolio](https://github.com/AdityaPatra-dev/portfolio)** | Modern developer portfolio web application. | `TypeScript` `React` `Firebase` | [**Live Demo**](https://adityapatradev.web.app/) |
-| ☁️ **[DeployHub](https://github.com/AdityaPatra-dev/DeployHub)** | Automated deployment platform for orchestrating cloud environments. | `DevOps` `Docker` `CI/CD` | **Active** |
-| ⚡ **[CloudArena](https://github.com/AdityaPatra-dev/CloudArena)** | Cloud sandbox and environment management CLI for reproducible infrastructure. | `Python` `Cloud SDKs` `Linux` | **Active** |
-| 🧠 **[mastering-llms](https://github.com/AdityaPatra-dev/mastering-llms)** | Curated knowledge base on Large Language Model architecture, fine-tuning & RAG. | `PyTorch` `Transformers` `RAG` | **Active** |
-| 📱 **[Taarak](https://github.com/AdityaPatra-dev/Taarak)** | Feature-rich cross-platform mobile utility application. | `Dart` `Flutter` `Mobile` | **Active** |
-| 🎬 **[Text-To-Video-Generator](https://github.com/AdityaPatra-dev/Text-To-Video-Generator)** | Machine learning pipeline translating descriptive text into video outputs. | `Python` `OpenCV` `GenAI` | **Active** |
+| 🌐 **[Aditya Patra Portfolio](https://github.com/AdityaPatra-dev/portfolio)** | Modern developer portfolio web application. | `TypeScript` `React` `Firebase` | [**Live App**](https://adityapatradev.web.app/) |
+| ⚡ **[CloudArena](https://github.com/AdityaPatra-dev/CloudArena)** | Cloud sandbox and environment management CLI for reproducible infrastructure. | `Python` `Cloud SDKs` `Linux` | [**Live Web App**](https://gdg-cloudarena.web.app/) |
+| 📱 **[Taarak](https://github.com/AdityaPatra-dev/Taarak)** | Feature-rich cross-platform mobile and web utility application. | `Dart` `Flutter` `Firebase` | [**Live Web App**](https://taakrak-d9ed0.web.app/) |
+| 🧠 **[mastering-llms](https://github.com/AdityaPatra-dev/mastering-llms)** | Curated knowledge base on Large Language Model architecture, fine-tuning & RAG. | `PyTorch` `Transformers` `RAG` | **Complete ✅** |
+| 🎬 **[Text-To-Video-Generator](https://github.com/AdityaPatra-dev/Text-To-Video-Generator)** | Machine learning pipeline translating descriptive text into video outputs. | `Python` `OpenCV` `GenAI` | **Complete ✅** |
+| ☁️ **[DeployHub](https://github.com/AdityaPatra-dev/DeployHub)** | Automated deployment platform for orchestrating cloud environments. | `DevOps` `Docker` `CI/CD` | **Active ⚡** |
 
 ---
 
@@ -220,9 +230,13 @@ flowchart LR
 
 ---
 
-## 📡 Live Profile Telemetry
+## 📡 Live Multi-Cloud Telemetry
 
-<div align="center"><img src="./assets/telemetry.svg" width="100%" alt="Automatically generated GitHub telemetry"/></div>
+<div align="center">
+<a href="https://github.com/AdityaPatra-dev/AdityaPatra-dev/actions/workflows/profile-telemetry.yml">
+  <img src="./assets/telemetry.svg" width="100%" alt="Automatically generated multi-cloud telemetry"/>
+</a>
+</div>
 
 ---
 
@@ -311,6 +325,8 @@ flowchart LR
 <div align="center">
 
 <a href="https://adityapatradev.web.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio%20Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website"/></a>
+<a href="https://hub.docker.com/u/adityapatra" target="_blank"><img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub"/></a>
+<a href="https://huggingface.co/Aditya9438" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
 <a href="mailto:adityapatraraj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://linkedin.com/in/aditya-patra-0a6530289" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://x.com/Aditya_patra943" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
