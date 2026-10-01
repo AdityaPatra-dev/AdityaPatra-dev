@@ -58,7 +58,7 @@ code → containers → infrastructure → deployment → observability → ML s
 │ 🧠  Machine Learning & Deep Learning (PyTorch)        │
 │ 🚀  MLOps, Model Serving & RAG Pipelines              │
 │ 🐧  Linux Internals, Networking & Observability       │
-│ 🌍  Building in public & Open Source                   │
+│ 🌍  Building in Public & Shipping Projects            │
 └────────────────────────────────────────────────────────┘
 ```
 
@@ -148,7 +148,7 @@ $ aditya --mlops
 <br/>
 
 ```text
-Interested in collaborating on Cloud/DevOps infrastructure, open-source utilities, or ML systems?
+Interested in collaborating on Cloud/DevOps infrastructure, full-stack builds, or ML systems?
 
 📧 Email    : adityapatraraj@gmail.com
 💼 LinkedIn : https://linkedin.com/in/aditya-patra-0a6530289

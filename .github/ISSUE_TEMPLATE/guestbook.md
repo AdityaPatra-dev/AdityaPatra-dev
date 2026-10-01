@@ -8,7 +8,7 @@ labels: guestbook, community
 ### 👋 Hello Aditya!
 
 **1. Who are you?**
-<!-- (e.g. Fellow student, Cloud/ML enthusiast, Recruiter, Open-source builder) -->
+<!-- (e.g. Fellow student, Cloud/ML enthusiast, Recruiter, Developer) -->
 
 **2. Where are you from?**
 <!-- (e.g. City, Country, or University) -->
