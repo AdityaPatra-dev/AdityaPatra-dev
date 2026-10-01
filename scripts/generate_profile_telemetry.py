@@ -67,12 +67,12 @@ def esc(x):
 cards = [
     ("GITHUB REPOSITORIES", f"{public_repos} Repos", "#22d3ee", f"{stars} Stars • {followers} Followers"),
     ("DOCKER CONTAINER HUB", f"{docker_count} Repo(s)", "#38bdf8", f"hub.docker.com/u/{DOCKER_USER}"),
-    ("HUGGING FACE HUB", "Aditya9438", "#fbbf24", "ML Models & Datasets"),
+    ("HUGGING FACE HUB", "Aditya9438", "#fbbf24", "ML Models &amp; Datasets"),
     ("CLOUD DEPLOYMENTS", "3 Active Apps", "#34d399", "Portfolio • CloudArena • Taarak"),
 ]
 
 svg = [
-    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 350">',
+    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 350" width="100%" height="auto">',
     '  <defs>',
     '    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">',
     '      <stop offset="0%" stop-color="#070a13"/>',
@@ -124,14 +124,14 @@ svg.extend([
     '    <rect width="1130" height="85" rx="12" fill="#090d16" stroke="#1e293b" stroke-width="1"/>',
     '    <text x="20" y="28" fill="#94a3b8" font-size="12">',
     '      <tspan fill="#34d399">● Live Deployments:</tspan> ',
-    '      <tspan fill="#38bdf8">gdg-cloudarena.web.app</tspan> &nbsp;|&nbsp; ',
-    '      <tspan fill="#38bdf8">taakrak-d9ed0.web.app</tspan> &nbsp;|&nbsp; ',
+    '      <tspan fill="#38bdf8">gdg-cloudarena.web.app</tspan> | ',
+    '      <tspan fill="#38bdf8">taakrak-d9ed0.web.app</tspan> | ',
     '      <tspan fill="#38bdf8">adityapatradev.web.app</tspan>',
     '    </text>',
     '    <text x="20" y="52" fill="#94a3b8" font-size="12">',
     '      <tspan fill="#fbbf24">● ML Flagships:</tspan> ',
-    '      <tspan fill="#e2e8f0">mastering-llms (Complete)</tspan> &nbsp;|&nbsp; ',
-    '      <tspan fill="#e2e8f0">Text-To-Video-Generator (Complete)</tspan> &nbsp;|&nbsp; ',
+    '      <tspan fill="#e2e8f0">mastering-llms (Complete)</tspan> | ',
+    '      <tspan fill="#e2e8f0">Text-To-Video-Generator (Complete)</tspan> | ',
     '      <tspan fill="#a78bfa">Hugging Face: Aditya9438</tspan>',
     '    </text>',
     f'    <text x="20" y="74" fill="#64748b" font-size="11">Synchronized: {updated} (UTC) • GitHub Actions Automated Telemetry</text>',
