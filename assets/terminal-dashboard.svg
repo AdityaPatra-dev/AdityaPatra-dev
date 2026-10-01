@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280">
+  <defs>
+    <linearGradient id="dashBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070a13"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" rx="18" fill="url(#dashBg)" stroke="#334155" stroke-width="1.5"/>
+
+  <!-- Window Header -->
+  <rect width="1200" height="38" rx="18" fill="#1e293b"/>
+  <rect y="22" width="1200" height="16" fill="#1e293b"/>
+  <circle cx="24" cy="19" r="6" fill="#ef4444"/>
+  <circle cx="44" cy="19" r="6" fill="#f59e0b"/>
+  <circle cx="64" cy="19" r="6" fill="#10b981"/>
+  <text x="600" y="24" fill="#94a3b8" font-family="JetBrains Mono, monospace" font-size="12" font-weight="600" text-anchor="middle">systemctl status aditya-cloud-lab.service</text>
+
+  <g font-family="JetBrains Mono, monospace" font-size="13">
+    <!-- Command Prompt -->
+    <text x="35" y="70" fill="#22d3ee" font-weight="700">aditya@cloud-lab:~$ <tspan fill="#f8fafc">systemctl status aditya-engine.service</tspan></text>
+    
+    <!-- Service Status -->
+    <g transform="translate(35, 96)">
+      <circle cx="6" cy="6" r="5" fill="#10b981">
+        <animate attributeName="opacity" values="1;0.4;1" dur="1.8s" repeatCount="indefinite"/>
+      </circle>
+      <text x="20" y="10" fill="#34d399" font-weight="700">● aditya-engine.service - Distributed Cloud, DevOps &amp; ML Automation Pipeline</text>
+    </g>
+    
+    <text x="55" y="132" fill="#94a3b8">Loaded: <tspan fill="#e2e8f0">loaded (/etc/systemd/system/aditya-engine.service; enabled; vendor preset: enabled)</tspan></text>
+    <text x="55" y="154" fill="#94a3b8">Active: <tspan fill="#34d399" font-weight="700">active (running)</tspan> since Mon 2026-10-01 00:00:00 UTC; 24h uptime</text>
+    <text x="55" y="176" fill="#94a3b8">Main PID: <tspan fill="#e2e8f0">2026 (runner)</tspan>; Tasks: <tspan fill="#e2e8f0">42 (limit: 4915)</tspan>; Memory: <tspan fill="#e2e8f0">128.4M</tspan>; CPU: <tspan fill="#38bdf8">0.42%</tspan></text>
+
+    <!-- Subsystems Status Progress Bars -->
+    <g transform="translate(55, 205)">
+      <text x="0" y="0" fill="#38bdf8">[████████████████████] 100%</text>
+      <text x="210" y="0" fill="#cbd5e1">Cloud &amp; Kubernetes Infrastructure Pipeline</text>
+    </g>
+
+    <g transform="translate(55, 227)">
+      <text x="0" y="0" fill="#a78bfa">[██████████████████░░]  92%</text>
+      <text x="210" y="0" fill="#cbd5e1">MLOps, PyTorch &amp; Model Serving Pipeline</text>
+    </g>
+
+    <g transform="translate(55, 249)">
+      <text x="0" y="0" fill="#34d399">[████████████████████] 100%</text>
+      <text x="210" y="0" fill="#cbd5e1">Real-time GitHub Telemetry &amp; CI/CD Automation</text>
+    </g>
+  </g>
+</svg>

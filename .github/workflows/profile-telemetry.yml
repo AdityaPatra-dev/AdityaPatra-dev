@@ -1,0 +1,26 @@
+name: Profile Telemetry
+on:
+  schedule:
+    - cron: "47 18 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  telemetry:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Generate telemetry SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+        run: python scripts/generate_profile_telemetry.py
+      - name: Commit telemetry
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/telemetry.svg
+          if git diff --cached --quiet; then echo "No changes."; else git commit -m "chore: refresh profile telemetry"; git push; fi

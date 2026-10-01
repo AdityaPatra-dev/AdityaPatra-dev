@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 370">
+  <defs>
+    <linearGradient id="termBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090d16"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect width="540" height="370" rx="16" fill="url(#termBg)" stroke="#334155" stroke-width="1.5"/>
+  
+  <!-- Terminal Title Bar -->
+  <rect width="540" height="38" rx="16" fill="#1e293b"/>
+  <rect y="22" width="540" height="16" fill="#1e293b"/>
+  <circle cx="20" cy="19" r="6" fill="#ef4444"/>
+  <circle cx="40" cy="19" r="6" fill="#f59e0b"/>
+  <circle cx="60" cy="19" r="6" fill="#10b981"/>
+  <text x="270" y="24" fill="#94a3b8" font-family="JetBrains Mono, monospace" font-size="12" font-weight="600" text-anchor="middle">aditya@cloud-lab:~ (bash)</text>
+
+  <!-- Terminal Content -->
+  <g font-family="JetBrains Mono, monospace" font-size="13" fill="#cbd5e1">
+    <text x="24" y="68" fill="#22d3ee" font-weight="700">aditya@cloud-lab:~$ <tspan fill="#f8fafc">whoami</tspan></text>
+    <text x="24" y="94" fill="#38bdf8">Aditya Patra — 2nd Year B.Tech CSE @ KIIT</text>
+    <text x="24" y="114" fill="#64748b">Location: Bhubaneswar, Odisha, India</text>
+
+    <text x="24" y="150" fill="#22d3ee" font-weight="700">aditya@cloud-lab:~$ <tspan fill="#f8fafc">cat focus.json</tspan></text>
+    <text x="24" y="174" fill="#a78bfa">{</text>
+    <text x="44" y="196" fill="#94a3b8">"cloud_devops": <tspan fill="#34d399">["Docker", "K8s", "CI/CD"]</tspan>,</text>
+    <text x="44" y="218" fill="#94a3b8">"ml_engineering": <tspan fill="#38bdf8">["PyTorch", "LLMs", "RAG"]</tspan>,</text>
+    <text x="44" y="240" fill="#94a3b8">"platform": <tspan fill="#fbbf24">["Linux", "FastAPI", "Next.js"]</tspan></text>
+    <text x="24" y="262" fill="#a78bfa">}</text>
+
+    <text x="24" y="298" fill="#22d3ee" font-weight="700">aditya@cloud-lab:~$ <tspan fill="#f8fafc">./verify-status.sh</tspan></text>
+    <g transform="translate(24, 320)">
+      <circle cx="5" cy="5" r="4" fill="#10b981">
+        <animate attributeName="opacity" values="1;0.4;1" dur="1.5s" repeatCount="indefinite"/>
+      </circle>
+      <text x="16" y="9" fill="#34d399" font-weight="600">ONLINE</text>
+      <text x="80" y="9" fill="#94a3b8">• Ready to build &amp; ship</text>
+    </g>
+
+    <!-- Blinking Cursor -->
+    <rect x="270" y="318" width="8" height="15" fill="#22d3ee">
+      <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

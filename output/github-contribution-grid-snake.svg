@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 160" width="100%" height="160">
+  <rect width="850" height="160" rx="14" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="30" y="32" fill="#0969da" font-family="monospace" font-size="14" font-weight="700">CONTRIBUTION SNAKE // AUTOMATION ACTIVE</text>
+  <text x="30" y="50" fill="#57606a" font-family="monospace" font-size="11">Visualizing continuous commits across git branches</text>
+  
+  <g transform="translate(30, 70)">
+    <g fill="#ebedf0">
+      <rect x="0" y="0" width="11" height="11" rx="2"/><rect x="0" y="16" width="11" height="11" rx="2"/><rect x="0" y="32" width="11" height="11" rx="2"/><rect x="0" y="48" width="11" height="11" rx="2"/>
+      <rect x="16" y="0" width="11" height="11" rx="2" fill="#9be9a8"/><rect x="16" y="16" width="11" height="11" rx="2"/><rect x="16" y="32" width="11" height="11" rx="2"/><rect x="16" y="48" width="11" height="11" rx="2"/>
+      <rect x="32" y="0" width="11" height="11" rx="2"/><rect x="32" y="16" width="11" height="11" rx="2" fill="#40c463"/><rect x="32" y="32" width="11" height="11" rx="2"/><rect x="32" y="48" width="11" height="11" rx="2"/>
+      <rect x="48" y="0" width="11" height="11" rx="2"/><rect x="48" y="16" width="11" height="11" rx="2"/><rect x="48" y="32" width="11" height="11" rx="2" fill="#30a14e"/><rect x="48" y="48" width="11" height="11" rx="2"/>
+      <rect x="64" y="0" width="11" height="11" rx="2"/><rect x="64" y="16" width="11" height="11" rx="2"/><rect x="64" y="32" width="11" height="11" rx="2"/><rect x="64" y="48" width="11" height="11" rx="2"/>
+      <rect x="80" y="0" width="11" height="11" rx="2" fill="#216e39"/><rect x="80" y="16" width="11" height="11" rx="2"/><rect x="80" y="32" width="11" height="11" rx="2"/><rect x="80" y="48" width="11" height="11" rx="2"/>
+      <rect x="96" y="0" width="11" height="11" rx="2"/><rect x="96" y="16" width="11" height="11" rx="2" fill="#9be9a8"/><rect x="96" y="32" width="11" height="11" rx="2"/><rect x="96" y="48" width="11" height="11" rx="2"/>
+      <rect x="112" y="0" width="11" height="11" rx="2"/><rect x="112" y="16" width="11" height="11" rx="2"/><rect x="112" y="32" width="11" height="11" rx="2" fill="#40c463"/><rect x="112" y="48" width="11" height="11" rx="2"/>
+      <rect x="128" y="0" width="11" height="11" rx="2"/><rect x="128" y="16" width="11" height="11" rx="2"/><rect x="128" y="32" width="11" height="11" rx="2"/><rect x="128" y="48" width="11" height="11" rx="2"/>
+      <rect x="144" y="0" width="11" height="11" rx="2" fill="#30a14e"/><rect x="144" y="16" width="11" height="11" rx="2"/><rect x="144" y="32" width="11" height="11" rx="2"/><rect x="144" y="48" width="11" height="11" rx="2"/>
+    </g>
+    <rect x="256" y="16" width="13" height="13" rx="3" fill="#0969da">
+      <animate attributeName="x" values="0;784;0" dur="10s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
