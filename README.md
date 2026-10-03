@@ -174,37 +174,66 @@ Interested in collaborating on Cloud/DevOps infrastructure, full-stack builds, o
 
 > Pinned repositories and live production builds. Discover more on my [GitHub repositories page](https://github.com/AdityaPatra-dev?tab=repositories).
 
-<div align="center">
+<!-- FEATURED_PROJECTS_START -->
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/AdityaPatra-dev/Taarak"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=Taarak&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9" width="100%" alt="Taarak repository" /></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/AdityaPatra-dev/CloudArena"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=CloudArena&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9" width="100%" alt="CloudArena repository" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/AdityaPatra-dev/Youtube_Download"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=Youtube_Download&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9" width="100%" alt="Youtube_Download repository" /></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/AdityaPatra-dev/DeployHub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=DeployHub&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9" width="100%" alt="DeployHub repository" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/AdityaPatra-dev/DevPulse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=DevPulse&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9" width="100%" alt="DevPulse repository" /></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/AdityaPatra-dev/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=portfolio&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9" width="100%" alt="portfolio repository" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/AdityaPatra-dev/gemeni-smart-note"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=gemeni-smart-note&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9" width="100%" alt="gemeni-smart-note repository" /></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/AdityaPatra-dev/mastering-llms"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=mastering-llms&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9" width="100%" alt="mastering-llms repository" /></a>
+    </td>
+  </tr>
+</table>
+<!-- FEATURED_PROJECTS_END -->
 
-<a href="https://github.com/AdityaPatra-dev/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=portfolio&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&description_lines=3" alt="Portfolio repository" /></a>
-<a href="https://github.com/AdityaPatra-dev/DeployHub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=DeployHub&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&description_lines=3" alt="DeployHub repository" /></a>
-
-<br/>
-
-<a href="https://github.com/AdityaPatra-dev/CloudArena"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=CloudArena&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&description_lines=3" alt="CloudArena repository" /></a>
-<a href="https://github.com/AdityaPatra-dev/mastering-llms"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=mastering-llms&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&description_lines=3" alt="mastering-llms repository" /></a>
-
-<br/>
-
-<a href="https://github.com/AdityaPatra-dev/Taarak"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=Taarak&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&description_lines=3" alt="Taarak repository" /></a>
-<a href="https://github.com/AdityaPatra-dev/Text-To-Video-Generator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=Text-To-Video-Generator&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&description_lines=3" alt="Text To Video Generator repository" /></a>
-
-</div>
+<!-- REPO_DIRECTORY_START -->
+<details>
+<summary><b>📂 View Full Repository Directory & Architecture Matrix (12 Projects)</b></summary>
 
 <br/>
 
 | Project | Highlights & Architecture | Tech Stack | Status / Demo |
 | :--- | :--- | :--- | :---: |
-| ⚡ **[CloudArena](https://github.com/AdityaPatra-dev/CloudArena)** | AI-powered Cloud Infrastructure Survival Arena & SRE Chaos Simulator featuring local Kubernetes clusters and Google Gemini AI incident mentorship. | `Python` `Kubernetes` `Gemini AI` `Linux` | [**Live App**](https://gdg-cloudarena.web.app/) |
-| ☁️ **[DeployHub](https://github.com/AdityaPatra-dev/DeployHub)** | Automated self-service PaaS deployment platform inspired by Render & Railway for containerizing and deploying GitHub repos to Kubernetes. | `DevOps` `Docker` `Kubernetes` `CI/CD` | **Active ⚡** |
-| 🌐 **[Aditya Patra Portfolio](https://github.com/AdityaPatra-dev/portfolio)** | Modern developer portfolio web application featuring dynamic terminal simulation and multi-cloud telemetry. | `TypeScript` `React` `Tailwind` `Firebase` | [**Live App**](https://adityapatradev.web.app/) |
-| 📱 **[Taarak](https://github.com/AdityaPatra-dev/Taarak)** | Offline-first disaster preparedness & emergency response platform (SIH26191) with 6-tier role-based access and live GIS mapping. | `Dart` `Flutter` `Firebase` `Google Maps` | [**Live App**](https://taakrak-d9ed0.web.app/) |
-| 🧠 **[mastering-llms](https://github.com/AdityaPatra-dev/mastering-llms)** | Curated, prioritized knowledge base covering Large Language Model fundamentals, transformer architecture, fine-tuning, and RAG systems. | `PyTorch` `Transformers` `Hugging Face` `RAG` | **Complete ✅** |
-| 🎬 **[Text-To-Video-Generator](https://github.com/AdityaPatra-dev/Text-To-Video-Generator)** | Machine learning pipeline translating PDF documents into narrated video presentations with OpenAI GPT-3.5, TTS, and OpenCV. | `Python` `GPT-3.5` `OpenCV` `GenAI` | **Complete ✅** |
-| 🎵 **[beat_wave](https://github.com/AdityaPatra-dev/beat_wave)** | Full-stack music streaming web application purpose-built as a DevOps showcase for Docker, Compose, Kubernetes, and CI/CD pipelines. | `Node.js` `Express` `PostgreSQL` `Docker` | **Active ⚡** |
-| 🔍 **[Web-Scrapper-Wikipedia](https://github.com/AdityaPatra-dev/Web-Scrapper-Wikipedia)** | Interactive CLI web scraper extracting structured infobox key-value data, suggestions, and introductory summaries from Wikipedia. | `Python` `BeautifulSoup` `CLI` `Requests` | **Complete ✅** |
-| ⚡ **[Youtube_Download](https://github.com/AdityaPatra-dev/Youtube_Download)** | High-performance automated YouTube playlist downloader script leveraging PowerShell, yt-dlp, and ffmpeg for parallel media extraction. | `PowerShell` `yt-dlp` `ffmpeg` `Automation` | **Complete ✅** |
-| ⚙️ **[AdityaPatra-dev](https://github.com/AdityaPatra-dev/AdityaPatra-dev)** | Core profile engine with automated 3D contribution matrix, snake animations, and scheduled multi-cloud telemetry workflows. | `GitHub Actions` `Python` `SVG Engine` `CI/CD` | **Automated 🔄** |
+| ☁️ **[DeployHub](https://github.com/AdityaPatra-dev/DeployHub)** | Automated self-service application deployment platform inspired by Render & Railway for containerizing and deploying GitHub repos to Kubernetes. | `Python` `Cloud Native` `Deployment Automation` | **Active ⚡** |
+| 📊 **[DevPulse](https://github.com/AdityaPatra-dev/DevPulse)** | Cloud Incident & Service Status Tracker | `Python` | **Active ⚡** |
+| ⚙️ **[AdityaPatra-dev](https://github.com/AdityaPatra-dev/AdityaPatra-dev)** | Personal GitHub profile configuration, automated multi-cloud telemetry engine, and CI/CD pipelines showcasing cloud & DevOps engineering. | `Python` `Devops` `Github Actions` | [**Live App**](https://adityapatradev.web.app) |
+| 📝 **[gemeni-smart-note](https://github.com/AdityaPatra-dev/gemeni-smart-note)** | AI-powered smart note and study assistant powered by Google Gemini | `HTML` | **Active ⚡** |
+| 📱 **[Taarak](https://github.com/AdityaPatra-dev/Taarak)** | Offline-first disaster preparedness & emergency response platform built with Flutter and Firebase for Smart India Hackathon (SIH26191). | `Dart` `DART` `Disaster Management` | [**Live App**](https://taakrak-d9ed0.web.app) |
+| 🌩️ **[CloudArena](https://github.com/AdityaPatra-dev/CloudArena)** | AI-powered Cloud Infrastructure Survival Arena & SRE Chaos Simulator featuring local Kubernetes clusters and Google Gemini AI incident mentorship. | `Python` `Chaos Engineering` `CTF` | [**Live App**](https://gdg-cloudarena.web.app) |
+| 🌐 **[portfolio](https://github.com/AdityaPatra-dev/portfolio)** | Modern, responsive developer portfolio web application built with React, TypeScript, and Tailwind CSS, deployed on Firebase Hosting. | `TypeScript` `Firebase` `Frontend` | [**Live App**](https://adityapatradev.web.app) |
+| 🧠 **[mastering-llms](https://github.com/AdityaPatra-dev/mastering-llms)** | Curated, prioritized knowledge base covering Large Language Model fundamentals, transformer architecture, fine-tuning, and RAG systems. | `Deep Learning` `Fine Tuning` `LLM` | **Complete ✅** |
+| 🎵 **[beat_wave](https://github.com/AdityaPatra-dev/beat_wave)** | DevOps-ready full-stack music streaming web application built with Node.js, Express, and PostgreSQL for Docker & Kubernetes showcase. | `JavaScript` `Devops` `Docker` | **Active ⚡** |
+| ⚡ **[Youtube_Download](https://github.com/AdityaPatra-dev/Youtube_Download)** | High-performance automated YouTube playlist downloader script leveraging PowerShell, yt-dlp, and ffmpeg for parallel media extraction. | `PowerShell` `Automation` `Downloader` | **Complete ✅** |
+| 🎬 **[Text-To-Video-Generator](https://github.com/AdityaPatra-dev/Text-To-Video-Generator)** | Generative AI pipeline in Python translating PDF documents into narrated video presentations with OpenAI GPT-3.5, TTS, and OpenCV. | `Python` `Generative Ai` `NLP` | **Complete ✅** |
+| 🔍 **[Web-Scrapper-Wikipedia](https://github.com/AdityaPatra-dev/Web-Scrapper-Wikipedia)** | Interactive Python CLI web scraper extracting structured infobox key-value data, suggestions, and introductory summaries from Wikipedia articles. | `Python` `Beautifulsoup4` `CLI` | **Complete ✅** |
+
+</details>
+<!-- REPO_DIRECTORY_END -->
 
 ---
 
