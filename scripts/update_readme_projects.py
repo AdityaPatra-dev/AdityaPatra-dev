@@ -164,7 +164,7 @@ def build_featured_table(featured_repos: list[str]) -> str:
         c1 = (
             f'    <td width="50%" align="center">\n'
             f'      <a href="https://github.com/{USER}/{r1}">'
-            f'<img src="https://github-readme-stats.vercel.app/api/pin/?username={USER}&repo={r1}&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9" '
+            f'<img src="https://github-readme-stats.vercel.app/api/pin/?username={USER}&repo={r1}&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&description_lines=3" '
             f'width="100%" alt="{r1} repository" /></a>\n'
             f'    </td>'
         )
@@ -174,7 +174,7 @@ def build_featured_table(featured_repos: list[str]) -> str:
             c2 = (
                 f'    <td width="50%" align="center">\n'
                 f'      <a href="https://github.com/{USER}/{r2}">'
-                f'<img src="https://github-readme-stats.vercel.app/api/pin/?username={USER}&repo={r2}&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9" '
+                f'<img src="https://github-readme-stats.vercel.app/api/pin/?username={USER}&repo={r2}&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&description_lines=3" '
                 f'width="100%" alt="{r2} repository" /></a>\n'
                 f'    </td>'
             )

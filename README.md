@@ -178,34 +178,34 @@ Interested in collaborating on Cloud/DevOps infrastructure, full-stack builds, o
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/AdityaPatra-dev/Taarak"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=Taarak&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9" width="100%" alt="Taarak repository" /></a>
+      <a href="https://github.com/AdityaPatra-dev/Taarak"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=Taarak&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&description_lines=3" width="100%" alt="Taarak repository" /></a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/AdityaPatra-dev/CloudArena"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=CloudArena&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9" width="100%" alt="CloudArena repository" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/AdityaPatra-dev/Youtube_Download"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=Youtube_Download&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9" width="100%" alt="Youtube_Download repository" /></a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/AdityaPatra-dev/DeployHub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=DeployHub&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9" width="100%" alt="DeployHub repository" /></a>
+      <a href="https://github.com/AdityaPatra-dev/CloudArena"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=CloudArena&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&description_lines=3" width="100%" alt="CloudArena repository" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/AdityaPatra-dev/DevPulse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=DevPulse&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9" width="100%" alt="DevPulse repository" /></a>
+      <a href="https://github.com/AdityaPatra-dev/Youtube_Download"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=Youtube_Download&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&description_lines=3" width="100%" alt="Youtube_Download repository" /></a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/AdityaPatra-dev/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=portfolio&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9" width="100%" alt="portfolio repository" /></a>
+      <a href="https://github.com/AdityaPatra-dev/DeployHub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=DeployHub&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&description_lines=3" width="100%" alt="DeployHub repository" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/AdityaPatra-dev/gemeni-smart-note"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=gemeni-smart-note&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9" width="100%" alt="gemeni-smart-note repository" /></a>
+      <a href="https://github.com/AdityaPatra-dev/DevPulse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=DevPulse&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&description_lines=3" width="100%" alt="DevPulse repository" /></a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/AdityaPatra-dev/mastering-llms"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=mastering-llms&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9" width="100%" alt="mastering-llms repository" /></a>
+      <a href="https://github.com/AdityaPatra-dev/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=portfolio&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&description_lines=3" width="100%" alt="portfolio repository" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/AdityaPatra-dev/gemeni-smart-note"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=gemeni-smart-note&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&description_lines=3" width="100%" alt="gemeni-smart-note repository" /></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/AdityaPatra-dev/mastering-llms"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=mastering-llms&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&description_lines=3" width="100%" alt="mastering-llms repository" /></a>
     </td>
   </tr>
 </table>
@@ -219,9 +219,9 @@ Interested in collaborating on Cloud/DevOps infrastructure, full-stack builds, o
 
 | Project | Highlights & Architecture | Tech Stack | Status / Demo |
 | :--- | :--- | :--- | :---: |
+| ⚙️ **[AdityaPatra-dev](https://github.com/AdityaPatra-dev/AdityaPatra-dev)** | Personal GitHub profile configuration, automated multi-cloud telemetry engine, and CI/CD pipelines showcasing cloud & DevOps engineering. | `Python` `Devops` `Github Actions` | [**Live App**](https://adityapatradev.web.app) |
 | ☁️ **[DeployHub](https://github.com/AdityaPatra-dev/DeployHub)** | Automated self-service application deployment platform inspired by Render & Railway for containerizing and deploying GitHub repos to Kubernetes. | `Python` `Cloud Native` `Deployment Automation` | **Active ⚡** |
 | 📊 **[DevPulse](https://github.com/AdityaPatra-dev/DevPulse)** | Cloud Incident & Service Status Tracker | `Python` | **Active ⚡** |
-| ⚙️ **[AdityaPatra-dev](https://github.com/AdityaPatra-dev/AdityaPatra-dev)** | Personal GitHub profile configuration, automated multi-cloud telemetry engine, and CI/CD pipelines showcasing cloud & DevOps engineering. | `Python` `Devops` `Github Actions` | [**Live App**](https://adityapatradev.web.app) |
 | 📝 **[gemeni-smart-note](https://github.com/AdityaPatra-dev/gemeni-smart-note)** | AI-powered smart note and study assistant powered by Google Gemini | `HTML` | **Active ⚡** |
 | 📱 **[Taarak](https://github.com/AdityaPatra-dev/Taarak)** | Offline-first disaster preparedness & emergency response platform built with Flutter and Firebase for Smart India Hackathon (SIH26191). | `Dart` `DART` `Disaster Management` | [**Live App**](https://taakrak-d9ed0.web.app) |
 | 🌩️ **[CloudArena](https://github.com/AdityaPatra-dev/CloudArena)** | AI-powered Cloud Infrastructure Survival Arena & SRE Chaos Simulator featuring local Kubernetes clusters and Google Gemini AI incident mentorship. | `Python` `Chaos Engineering` `CTF` | [**Live App**](https://gdg-cloudarena.web.app) |
