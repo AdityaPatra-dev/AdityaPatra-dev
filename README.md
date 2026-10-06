@@ -202,10 +202,10 @@ Interested in collaborating on Cloud/DevOps infrastructure, full-stack builds, o
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/AdityaPatra-dev/gemeni-smart-note"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=gemeni-smart-note&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&description_lines=3" width="100%" alt="gemeni-smart-note repository" /></a>
+      <a href="https://github.com/AdityaPatra-dev/DSA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=DSA&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&description_lines=3" width="100%" alt="DSA repository" /></a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/AdityaPatra-dev/mastering-llms"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=mastering-llms&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&description_lines=3" width="100%" alt="mastering-llms repository" /></a>
+      <a href="https://github.com/AdityaPatra-dev/gemeni-smart-note"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=gemeni-smart-note&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&description_lines=3" width="100%" alt="gemeni-smart-note repository" /></a>
     </td>
   </tr>
 </table>
@@ -213,13 +213,14 @@ Interested in collaborating on Cloud/DevOps infrastructure, full-stack builds, o
 
 <!-- REPO_DIRECTORY_START -->
 <details>
-<summary><b>📂 View Full Repository Directory & Architecture Matrix (12 Projects)</b></summary>
+<summary><b>📂 View Full Repository Directory & Architecture Matrix (13 Projects)</b></summary>
 
 <br/>
 
 | Project | Highlights & Architecture | Tech Stack | Status / Demo |
 | :--- | :--- | :--- | :---: |
 | ⚙️ **[AdityaPatra-dev](https://github.com/AdityaPatra-dev/AdityaPatra-dev)** | Personal GitHub profile configuration, automated multi-cloud telemetry engine, and CI/CD pipelines showcasing cloud & DevOps engineering. | `Python` `Devops` `Github Actions` | [**Live App**](https://adityapatradev.web.app) |
+| 📦 **[DSA](https://github.com/AdityaPatra-dev/DSA)** | Automated DSA & Competitive Programming vault in C++ & C — Live tracking across LeetCode, Codeforces, CodeChef, HackerRank & HackerEarth with real-time dynamic heatmaps. | `Python` `Algorithms` `C` | **Active ⚡** |
 | ☁️ **[DeployHub](https://github.com/AdityaPatra-dev/DeployHub)** | Automated self-service application deployment platform inspired by Render & Railway for containerizing and deploying GitHub repos to Kubernetes. | `Python` `Cloud Native` `Deployment Automation` | **Active ⚡** |
 | 📊 **[DevPulse](https://github.com/AdityaPatra-dev/DevPulse)** | Cloud Incident & Service Status Tracker | `Python` | **Active ⚡** |
 | 📝 **[gemeni-smart-note](https://github.com/AdityaPatra-dev/gemeni-smart-note)** | AI-powered smart note and study assistant powered by Google Gemini | `HTML` | **Active ⚡** |
