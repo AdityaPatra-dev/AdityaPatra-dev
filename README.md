@@ -205,7 +205,7 @@ Interested in collaborating on Cloud/DevOps infrastructure, full-stack builds, o
       <a href="https://github.com/AdityaPatra-dev/DSA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=DSA&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&description_lines=3" width="100%" alt="DSA repository" /></a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/AdityaPatra-dev/gemeni-smart-note"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=gemeni-smart-note&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&description_lines=3" width="100%" alt="gemeni-smart-note repository" /></a>
+      <a href="https://github.com/AdityaPatra-dev/universal-file-studio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=universal-file-studio&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&description_lines=3" width="100%" alt="universal-file-studio repository" /></a>
     </td>
   </tr>
 </table>
@@ -213,7 +213,7 @@ Interested in collaborating on Cloud/DevOps infrastructure, full-stack builds, o
 
 <!-- REPO_DIRECTORY_START -->
 <details>
-<summary><b>📂 View Full Repository Directory & Architecture Matrix (13 Projects)</b></summary>
+<summary><b>📂 View Full Repository Directory & Architecture Matrix (14 Projects)</b></summary>
 
 <br/>
 
@@ -221,6 +221,7 @@ Interested in collaborating on Cloud/DevOps infrastructure, full-stack builds, o
 | :--- | :--- | :--- | :---: |
 | ⚙️ **[AdityaPatra-dev](https://github.com/AdityaPatra-dev/AdityaPatra-dev)** | Personal GitHub profile configuration, automated multi-cloud telemetry engine, and CI/CD pipelines showcasing cloud & DevOps engineering. | `Python` `Devops` `Github Actions` | [**Live App**](https://adityapatradev.web.app) |
 | 📦 **[DSA](https://github.com/AdityaPatra-dev/DSA)** | Automated DSA & Competitive Programming vault in C++ & C — Live tracking across LeetCode, Codeforces, CodeChef, HackerRank & HackerEarth with real-time dynamic heatmaps. | `Python` `Algorithms` `C` | **Active ⚡** |
+| 📦 **[universal-file-studio](https://github.com/AdityaPatra-dev/universal-file-studio)** | Local-first universal file conversion & processing studio powered by 9 CLI engines (FFmpeg, ImageMagick, Pandoc, LibreOffice, Tesseract OCR, QPDF, Ghostscript, Poppler, 7-Zip). Features interactive 3D visual pipelines, dark-mode GUI, real-time WebSocket progress, standalone CLI runner, and privacy-first local sandboxing. | `Python` `CLI` `Fastapi` | **Active ⚡** |
 | ☁️ **[DeployHub](https://github.com/AdityaPatra-dev/DeployHub)** | Automated self-service application deployment platform inspired by Render & Railway for containerizing and deploying GitHub repos to Kubernetes. | `Python` `Cloud Native` `Deployment Automation` | **Active ⚡** |
 | ⚡ **[Youtube_Download](https://github.com/AdityaPatra-dev/Youtube_Download)** | High-performance automated YouTube playlist downloader script leveraging PowerShell, yt-dlp, and ffmpeg for parallel media extraction. | `Python` `Automation` `Downloader` | **Complete ✅** |
 | 🌐 **[portfolio](https://github.com/AdityaPatra-dev/portfolio)** | Modern, responsive developer portfolio web application built with React, TypeScript, and Tailwind CSS, deployed on Firebase Hosting. | `TypeScript` `Firebase` `Frontend` | [**Live App**](https://adityapatradev.web.app) |
