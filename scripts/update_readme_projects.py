@@ -46,6 +46,10 @@ KNOWN_ICONS = {
 }
 
 KNOWN_STATUS = {
+    "DeployHub": "**Complete ✅**",
+    "DevPulse": "**Complete ✅**",
+    "gemeni-smart-note": "**Complete ✅**",
+    "beat_wave": "**Complete ✅**",
     "mastering-llms": "**Complete ✅**",
     "Text-To-Video-Generator": "**Complete ✅**",
     "Web-Scrapper-Wikipedia": "**Complete ✅**",
