@@ -43,6 +43,10 @@ KNOWN_ICONS = {
     "DevPulse": "📊",
     "gemeni-smart-note": "📝",
     "AdityaPatra-dev": "⚙️",
+    "Novels-World": "📚",
+    "DSA": "📦",
+    "Manhua-extractor": "📦",
+    "universal-file-studio": "📦",
 }
 
 KNOWN_STATUS = {
@@ -211,7 +215,7 @@ def build_directory_matrix(repos: list[dict]) -> str:
 
         # Clean leading emojis from description for consistency with table icon
         cleaned_desc = desc
-        for emo in ["🌩️", "☁️", "🌐", "📱", "🧠", "🎬", "🎵", "🔍", "⚡", "⚙️", "📊", "📝"]:
+        for emo in ["🌩️", "☁️", "🌐", "📱", "🧠", "🎬", "🎵", "🔍", "⚡", "⚙️", "📊", "📝", "📚", "📦"]:
             if cleaned_desc.startswith(emo):
                 cleaned_desc = cleaned_desc[len(emo) :].strip()
 
@@ -231,10 +235,10 @@ def build_directory_matrix(repos: list[dict]) -> str:
 
         # Status / Demo
         homepage = r.get("homepage")
-        if homepage and "github.com" not in homepage:
-            status = f"[**Live App**]({homepage})"
-        elif name in KNOWN_STATUS:
+        if name in KNOWN_STATUS:
             status = KNOWN_STATUS[name]
+        elif homepage and "github.com" not in homepage:
+            status = f"[**Live App**]({homepage})"
         else:
             status = "**Active ⚡**"
 
