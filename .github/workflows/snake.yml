@@ -18,7 +18,7 @@ jobs:
             output/github-contribution-grid-snake-dark.svg?palette=github-dark
       - name: Commit snake
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "AdityaPatra-dev"
+          git config user.email "adityapatraraj@gmail.com"
           git add output
           if git diff --cached --quiet; then echo "No changes."; else git commit -m "chore: update contribution snake"; git push; fi

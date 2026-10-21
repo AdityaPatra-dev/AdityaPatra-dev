@@ -16,7 +16,7 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
       - name: Commit generated images
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "AdityaPatra-dev"
+          git config user.email "adityapatraraj@gmail.com"
           git add profile-3d-contrib
           if git diff --cached --quiet; then echo "No changes."; else git commit -m "chore: update 3D contribution profile"; git push; fi

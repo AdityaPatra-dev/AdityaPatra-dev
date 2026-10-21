@@ -25,7 +25,7 @@ jobs:
         run: python scripts/update_readme_projects.py
       - name: Commit updates
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "AdityaPatra-dev"
+          git config user.email "adityapatraraj@gmail.com"
           git add assets/telemetry.svg README.md
           if git diff --cached --quiet; then echo "No changes."; else git commit -m "chore: refresh profile telemetry and project showcase"; git push; fi
