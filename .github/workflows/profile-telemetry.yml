@@ -9,10 +9,10 @@ jobs:
   telemetry:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v4
         with:
           token: ${{ secrets.PAT_TOKEN || secrets.GITHUB_TOKEN }}
-      - uses: actions/setup-python@v6
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.x"
       - name: Generate telemetry SVG
@@ -30,4 +30,10 @@ jobs:
           git config user.name "AdityaPatra-dev"
           git config user.email "adityapatraraj@gmail.com"
           git add assets/telemetry.svg README.md
-          if git diff --cached --quiet; then echo "No changes."; else git commit -m "chore: refresh profile telemetry and project showcase"; git push; fi
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "chore: refresh profile telemetry and project showcase"
+            git pull --rebase origin main || true
+            git push
+          fi

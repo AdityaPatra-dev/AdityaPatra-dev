@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v4
         with:
           token: ${{ secrets.PAT_TOKEN || secrets.GITHUB_TOKEN }}
       - uses: yoshi389111/github-profile-3d-contrib@v0.9.3
@@ -21,4 +21,10 @@ jobs:
           git config user.name "AdityaPatra-dev"
           git config user.email "adityapatraraj@gmail.com"
           git add profile-3d-contrib
-          if git diff --cached --quiet; then echo "No changes."; else git commit -m "chore: update 3D contribution profile"; git push; fi
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "chore: update 3D contribution profile"
+            git pull --rebase origin main || true
+            git push
+          fi
