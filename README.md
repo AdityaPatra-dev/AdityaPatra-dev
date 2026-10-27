@@ -170,47 +170,6 @@ Interested in collaborating on Cloud/DevOps infrastructure, full-stack builds, o
 
 ---
 
-## 🚀 Featured Projects
-
-> Pinned repositories and live production builds. Discover more on my [GitHub repositories page](https://github.com/AdityaPatra-dev?tab=repositories).
-
-<!-- FEATURED_PROJECTS_START -->
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/AdityaPatra-dev/Taarak"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=Taarak&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&description_lines=3" width="100%" alt="Taarak repository" /></a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/AdityaPatra-dev/CloudArena"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=CloudArena&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&description_lines=3" width="100%" alt="CloudArena repository" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/AdityaPatra-dev/Youtube_Download"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=Youtube_Download&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&description_lines=3" width="100%" alt="Youtube_Download repository" /></a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/AdityaPatra-dev/DeployHub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=DeployHub&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&description_lines=3" width="100%" alt="DeployHub repository" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/AdityaPatra-dev/DevPulse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=DevPulse&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&description_lines=3" width="100%" alt="DevPulse repository" /></a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/AdityaPatra-dev/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=portfolio&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&description_lines=3" width="100%" alt="portfolio repository" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/AdityaPatra-dev/DSA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=DSA&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&description_lines=3" width="100%" alt="DSA repository" /></a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/AdityaPatra-dev/Novels-World"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatra-dev&repo=Novels-World&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&description_lines=3" width="100%" alt="Novels-World repository" /></a>
-    </td>
-  </tr>
-</table>
-<!-- FEATURED_PROJECTS_END -->
-
 <!-- REPO_DIRECTORY_START -->
 <details>
 <summary><b>📂 View Full Repository Directory & Architecture Matrix (16 Projects)</b></summary>
@@ -238,26 +197,6 @@ Interested in collaborating on Cloud/DevOps infrastructure, full-stack builds, o
 
 </details>
 <!-- REPO_DIRECTORY_END -->
-
----
-
-## 🌌 The Profile Engine
-
-> This profile is intentionally engineered as a self-updating CI/CD system rather than a static document.
-
-<img src="./assets/profile-system.svg" width="100%" alt="Animated profile system architecture"/>
-
-```mermaid
-flowchart LR
-    G[GitHub Activity] --> A[GitHub Actions]
-    A --> B[3D Contribution Matrix]
-    A --> C[Snake Commit Graph]
-    A --> D[Live Telemetry Engine]
-    B --> R[Profile README]
-    C --> R
-    D --> R
-    R --> V[👀 Profile Visitors]
-```
 
 ---
 

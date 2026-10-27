@@ -256,74 +256,29 @@ def update_readme():
 
     content = README_PATH.read_text(encoding="utf-8")
 
-    # 1. Fetch pinned and all repos
-    pinned_repos = get_pinned_repos()
+    # 1. Fetch all repos
     all_repos = get_all_repos()
 
     if not all_repos:
         print("⚠️ No repositories returned; aborting update to protect README.")
         return
 
-    # 2. Select Featured: Pinned + Latest (strictly deduplicated)
-    all_repo_names = [r["name"] for r in all_repos]
-
-    # Validate pinned are valid repos
-    valid_pinned = [p for p in pinned_repos if p in all_repo_names]
-    if not valid_pinned:
-        valid_pinned = [r["name"] for r in all_repos[:6]]
-
-    # Find latest non-pinned repos (excluding special profile readme repo unless pinned)
-    latest_candidates = [
-        r["name"]
-        for r in all_repos
-        if r["name"] not in valid_pinned and r["name"] != USER
-    ]
-
-    # Pick latest count so that the 2-column table is completely balanced
-    # If pinned count is even, add 2 latest; if odd, add 1 latest
-    num_latest = 2 if len(valid_pinned) % 2 == 0 else 1
-    selected_latest = latest_candidates[:num_latest]
-
-    featured_selection = valid_pinned + selected_latest
-    print(f"⭐ Featured Repositories ({len(featured_selection)} total):")
-    print(f"   • Pinned ({len(valid_pinned)}): {valid_pinned}")
-    print(f"   • Latest ({len(selected_latest)}): {selected_latest}")
-
-    # 3. Generate Blocks
-    featured_table = build_featured_table(featured_selection)
+    # 2. Generate Directory Matrix
     directory_matrix = build_directory_matrix(all_repos)
 
-    # 4. Replace using comment anchors if available, or regex
-    p_start = "<!-- FEATURED_PROJECTS_START -->"
-    p_end = "<!-- FEATURED_PROJECTS_END -->"
+    # 3. Replace directory matrix using comment anchors
     d_start = "<!-- REPO_DIRECTORY_START -->"
     d_end = "<!-- REPO_DIRECTORY_END -->"
 
-    if p_start in content and p_end in content and d_start in content and d_end in content:
-        # Markers exist, clean surgical replacement
-        featured_pattern = re.compile(rf"{re.escape(p_start)}.*?{re.escape(p_end)}", re.DOTALL)
-        content = featured_pattern.sub(f"{p_start}\n{featured_table}\n{p_end}", content)
-
+    if d_start in content and d_end in content:
         dir_pattern = re.compile(rf"{re.escape(d_start)}.*?{re.escape(d_end)}", re.DOTALL)
         content = dir_pattern.sub(f"{d_start}\n{directory_matrix}\n{d_end}", content)
     else:
-        # First time injection: replace between '## 🚀 Featured Projects' and '---'
-        featured_header = "## 🚀 Featured Projects"
-        if featured_header in content:
-            pre_header, post_header = content.split(featured_header, 1)
-            # Find the next '---' section separator
-            parts = post_header.split("\n---", 1)
-            intro = "\n\n> Pinned repositories and live production builds. Discover more on my [GitHub repositories page](https://github.com/AdityaPatra-dev?tab=repositories).\n\n"
-            new_section = (
-                f"{intro}"
-                f"{p_start}\n{featured_table}\n{p_end}\n\n"
-                f"{d_start}\n{directory_matrix}\n{d_end}\n"
-            )
-            content = f"{pre_header}{featured_header}{new_section}\n---{parts[1]}"
+        print("⚠️ Markers <!-- REPO_DIRECTORY_START --> or <!-- REPO_DIRECTORY_END --> not found in README.md")
+        return
 
     README_PATH.write_text(content, encoding="utf-8")
     print(f"✅ Successfully updated {README_PATH}")
-    print(f"   • Featured grid: {len(featured_selection)} projects in side-by-side layout")
     print(f"   • Directory matrix: {len(all_repos)} projects cataloged with complete metadata")
 
 
