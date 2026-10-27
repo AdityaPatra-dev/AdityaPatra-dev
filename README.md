@@ -23,7 +23,7 @@
   <tr>
     <td align="center">
       <a href="#-interactive-terminal-cli"><b>💻 Terminal CLI</b></a> &nbsp;•&nbsp;
-      <a href="#-featured-projects"><b>🚀 Projects</b></a> &nbsp;•&nbsp;
+      <a href="#repository-directory"><b>📂 Projects</b></a> &nbsp;•&nbsp;
       <a href="#-engineering-stack"><b>🧰 Tech Stack</b></a> &nbsp;•&nbsp;
       <a href="#-live-multi-cloud-telemetry"><b>📡 Telemetry</b></a> &nbsp;•&nbsp;
       <a href="#-github-analytics"><b>📊 Analytics</b></a> &nbsp;•&nbsp;
@@ -44,12 +44,6 @@
 ### 👋 Hey, I'm Aditya Patra
 
 I'm a **2nd-year B.Tech Computer Science & Engineering student at KIIT** (Bhubaneswar, India) specializing in **Cloud Infrastructure, DevOps, and Machine Learning Systems (MLOps)**.
-
-I believe true engineering comes from understanding systems from first principles:
-
-```text
-code → containers → infrastructure → deployment → observability → ML systems
-```
 
 ```text
 ┌────────────────────────────────────────────────────────┐
@@ -170,6 +164,7 @@ Interested in collaborating on Cloud/DevOps infrastructure, full-stack builds, o
 
 ---
 
+<a name="repository-directory"></a>
 <!-- REPO_DIRECTORY_START -->
 <details>
 <summary><b>📂 View Full Repository Directory & Architecture Matrix (16 Projects)</b></summary>
@@ -290,12 +285,6 @@ Interested in collaborating on Cloud/DevOps infrastructure, full-stack builds, o
 
 ---
 
-## 🖥️ `systemctl status aditya-cloud-lab`
-
-<img src="./assets/terminal-dashboard.svg" width="100%" alt="Animated terminal dashboard"/>
-
----
-
 ## 🌐 Connect
 
 <div align="center">
@@ -315,8 +304,6 @@ Interested in collaborating on Cloud/DevOps infrastructure, full-stack builds, o
 ---
 
 <div align="center">
-
-### `Build → Break → Learn → Automate → Ship → Repeat`
 
 <img src="./assets/footer.svg" width="100%" alt="Animated footer"/>
 
