@@ -153,11 +153,11 @@ $ aditya --mlops
 Interested in collaborating on Cloud/DevOps infrastructure, full-stack builds, or ML systems?
 
 📧 Email        : adityapatraraj@gmail.com
-💼 LinkedIn     : https://linkedin.com/in/aditya-patra-0a6530289
+💼 LinkedIn     : https://www.linkedin.com/in/aditya-patra-dev/
 🌐 Website      : https://adityapatradev.web.app/
 🐳 Docker Hub   : https://hub.docker.com/u/adityapatra
 🤗 Hugging Face : https://huggingface.co/Aditya9438
-🐦 X            : https://x.com/Aditya_patra943
+🐦 X            : https://x.com/adityapatradev
 ```
 
 </details>
@@ -296,10 +296,10 @@ Interested in collaborating on Cloud/DevOps infrastructure, full-stack builds, o
 <a href="https://hub.docker.com/u/adityapatra" target="_blank"><img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub"/></a>
 <a href="https://huggingface.co/Aditya9438" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
 <a href="mailto:adityapatraraj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://linkedin.com/in/aditya-patra-0a6530289" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://x.com/Aditya_patra943" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://www.linkedin.com/in/aditya-patra-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com/adityapatradev" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <a href="https://youtube.com/@Aditya_Learns_tech" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-<a href="https://instagram.com/aditya_patra_75" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.instagram.com/adityapatradev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://reddit.com/user/ConsciousClue6179" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
 
 </div>
